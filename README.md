@@ -18,27 +18,27 @@ Taller Descubriendo virus con python 26 marzo 2026
 
 | Detalle     | Información |
 |------------|------------|
-| 📆 Fecha    | 26 de marzo de 2026 |
-| ⏰ Hora     | 4:00 pm |
-| ⏳ Duración | ~2 horas |
-| 💻 Modalidad | En línea (Zoom) |
-| 💸 Costo    | Gratuito |
+| Fecha    | 26 de marzo de 2026 |
+| Hora     | 4:00 pm |
+| Duración | ~2 horas |
+| Modalidad | En línea (Zoom) |
+| Costo    | Gratuito |
 
 ---
 
-## 👩‍🏫 Instructoras
+## Instructoras
 
 - **M.C. Adriana Wendolyn Cárdenas Estrada**  
 - **Dra. Alida Esmeralda Zárate Jiménez**
 
 ---
 
-## 📦 Contenido
+##  Contenido
 
 Dentro de este repositorio encontrarás:
 
-- 📓 Notebooks interactivos en Python   
-- 📁 Datos de práctica incluidos  
+- Notebooks interactivos en Python   
+- Datos de práctica incluidos  
 
 ---
 
