@@ -43,6 +43,3 @@ Dentro de este repositorio encontrarás:
 ---
 
 
-
-```bash
-pip install pandas numpy matplotlib biopython
