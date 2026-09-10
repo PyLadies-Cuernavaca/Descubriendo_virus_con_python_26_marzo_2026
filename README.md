@@ -86,6 +86,6 @@ Consulta el archivo `LICENSE` para más información.
 **Alida Zárate: Estancias Posdoctorales por México de la Secretaría de Ciencia, Humanidades, Tecnología e Innovación (SECIHTI)**,
 mediante el proyecto
 *“Modelos de deep learning y de lenguaje para predecir la dispersión geográfica y evolución de las variantes de dengue y otros virus respiratorios a partir de datos genómicos y epidemiológicos”*.
- y al proyecto **Ciencia Básica y de Frontera CBF-2025-I-1026**,
+ Al proyecto **Ciencia Básica y de Frontera CBF-2025-I-1026**,
 *“Vigilancia genómica de dengue y exploración del origen de síndromes febriles no diagnosticados en regiones endémicas mediante metagenómica”*,
-financiado por la SECIHTI.
+financiado por la SECIHTI y al proyecto PAPIIT - IN225126 Desarrollo e implementación de vigilancia genómica del dengue en México
